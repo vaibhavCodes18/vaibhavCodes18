@@ -72,3 +72,18 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vaibhavCodes18&icon=9&color=1)](https://visitcount.itsvg.in)
+
+
+
+
+<img src="https://raw.githubusercontent.com/vaibhavCodes18/vaibhavCodes18/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
+
+###
