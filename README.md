@@ -76,14 +76,3 @@
 
 
 
-<img src="https://raw.githubusercontent.com/vaibhavCodes18/vaibhavCodes18/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left"></p>
-
-###
-
-<p align="left"></p>
-
-###
