@@ -5,7 +5,7 @@
 
 
 ## 💫 About Me
-- 🔭 I’m a B.Tech CSE Student<br>
+- 🔭 I’m a Final Year B.Tech CSE Student<br>
 - 🌱 I’m currently into Web Development<br>
 - 👩🏻‍💻 I’m currently learning Java Spring boot<br>
 - 👯 I like contributing to OpenSource Projects<br>
