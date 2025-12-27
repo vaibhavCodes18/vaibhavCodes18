@@ -26,17 +26,17 @@
 
 <p align="center">
     <a href="https://github.com/vaibhavCodes18/github-readme-streak-stats">
-        <img alt="Lilesh Bawane's streak" src="https://github-readme-stats.vercel.app/api?username=vaibhavCodes18&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false"/>
+        <img alt="Lilesh Bawane's streak" src="https://github-readme-stats.vercel.app/api?username=vaibhavCodes18&theme=transparent&hide_border=false&include_all_commits=true&count_private=true"/>
     </a>
 </p>
 
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=vaibhavCodes18&theme=highcontrast" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app/?user=vaibhavCodes18&theme=transparent&hide_border=false" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
     <a href="https://github.com/vaibhavCodes18/github-readme-streak-stats">
-        <img alt="Lilesh Bawane's streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavCodes18&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+        <img alt="Lilesh Bawane's streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavCodes18&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
     </a>
 </p>
 
