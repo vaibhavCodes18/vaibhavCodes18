@@ -26,17 +26,17 @@
 
 <p align="center">
     <a href="https://github.com/vaibhavCodes18/github-readme-streak-stats">
-        <img alt="Lilesh Bawane's streak" src="https://github-readme-stats.vercel.app/api?username=vaibhavCodes18&theme=transparent&hide_border=false&include_all_commits=true&count_private=true"/>
+        <img alt="vaibhavCodes18's streak" src="https://github-readme-stats.vercel.app/api?username=vaibhavCodes18&theme=transparent&hide_border=false&include_all_commits=true&count_private=true"/>
     </a>
 </p>
 
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app/?user=vaibhavCodes18&theme=transparent&hide_border=false" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app/?user=vaibhavCodes18&theme=transparent&hide_border=false" alt="vaibhavCodes18's GitHub Streak" /></a>
 </p>
 
 <p align="center">
     <a href="https://github.com/vaibhavCodes18/github-readme-streak-stats">
-        <img alt="Lilesh Bawane's streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavCodes18&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+        <img alt="vaibhavCodes18's streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavCodes18&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
     </a>
 </p>
 
@@ -48,7 +48,7 @@
 
 <p align="center">
     <a href="https://github.com/vaibhavCodes18/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Lilesh Bawane's streak" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="vaibhavCodes18's streak" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
     </a>
 </p>
 
@@ -57,17 +57,18 @@
 
 <p align="center">
     <a href="https://github.com/vaibhavCodes18/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Lilesh Bawane's streak" src="https://github-contributor-stats.vercel.app/api?username=vaibhavCodes18&limit=5&theme=transparent&combine_all_yearly_contributions=true"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="vaibhavCodes18's streak" src="https://github-contributor-stats.vercel.app/api?username=vaibhavCodes18&limit=5&theme=transparent&combine_all_yearly_contributions=true"/>
     </a>
 </p>
-<!-- ![](https://github-contributor-stats.vercel.app/api?username=CoderVaibhav18&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
+
+![](https://github-contributor-stats.vercel.app/api?username=CoderVaibhav18&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## ❤ Views and Followers
 
 <a href="https://github.com/vaibhavCodes18/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=vaibhavCodes18">
 </a>
-<a href="https://github.com/vaibhavCodes18?tab=followers"><img src="https://img.shields.io/github/followers/vaibhavCodes18?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/vaibhavCodes18?tab=followers"><img src="https://img.shields.io/github/followers/vaibhavCodes18?label=Followers&style=social" alt="vaibhavCodes18's GitHub Badge"></a>
 
 
 ---
