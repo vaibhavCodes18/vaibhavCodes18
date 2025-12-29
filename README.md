@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app/?user=vaibhavCodes18&theme=transparent&hide_border=false" alt="vaibhavCodes18's GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vaibhavCodes18&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
