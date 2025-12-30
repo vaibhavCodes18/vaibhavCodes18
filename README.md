@@ -79,12 +79,6 @@ I'm a final-year B.Tech Computer Science student passionate about building robus
 
 </div>
 
-<div align="center">
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vaibhavCodes18&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
-  
-</div>
-
 ---
 
 ## 🏆 Top Contributions
