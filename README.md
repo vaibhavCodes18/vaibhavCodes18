@@ -24,6 +24,8 @@
 
 ## 📊 GitHub Stats
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
     <a href="https://github.com/vaibhavCodes18/github-readme-streak-stats">
         <img alt="vaibhavCodes18's streak" src="https://github-readme-stats.vercel.app/api?username=vaibhavCodes18&theme=transparent&hide_border=false&include_all_commits=true&count_private=true"/>
