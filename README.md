@@ -24,7 +24,7 @@
 
 ## 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavCodes18)](https://github.com/vaibhavCodes18/github-readme-stats)
 
 <p align="center">
     <a href="https://github.com/vaibhavCodes18/github-readme-streak-stats">
