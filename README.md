@@ -72,21 +72,16 @@ I'm a final-year B.Tech Computer Science student passionate about building robus
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavCodes18&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavCodes18&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" height="160"/>
-  
+
+![](https://github-readme-stats.vercel.app/api?username=vaibhavCodes18&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vaibhavCodes18&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavCodes18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </div>
 
 <div align="center">
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=vaibhavCodes18&theme=dark&hide_border=true&mode=weekly)
-  
-</div>
-
-<div align="center">
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vaibhavCodes18&theme=darkhub&no-frame=true&row=2&column=4)
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vaibhavCodes18&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
   
 </div>
 
