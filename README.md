@@ -85,7 +85,7 @@ I'm a final-year B.Tech Computer Science student passionate about building robus
 
 <div align="center">
   
-  [![Top Contributions](https://github-contributor-stats.vercel.app/api?username=vaibhavCodes18&limit=5&combine_all_yearly_contributions=true&theme=dark)](https://github.com/vaibhavCodes18)
+  [![Top Contributions](https://github-contributor-stats.vercel.app/api?user=vaibhavCodes18&limit=5&combine_all_yearly_contributions=true&theme=dark)](https://github.com/vaibhavCodes18)
   
 </div>
 
