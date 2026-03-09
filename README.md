@@ -6,7 +6,7 @@
 
 <h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-  Hey there! I'm Vaibha
+  Hey there! I'm Vaibhav
 </h1>
 
 <h3 align="center">🚀 Tech Enthusiast & Full-Stack Developer</h3>
