@@ -86,7 +86,7 @@ I'm a final-year B.Tech Computer Science student passionate about building robus
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaibhavCodes18/aahanabobade/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaibhavCodes18/vaibhavCodes18/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vaibhavCodes18/vaibhavCodes18/output/github-contribution-grid-snake.svg"/>
   <img alt="github-snake" src="https://raw.githubusercontent.com/vaibhavCodes18/vaibhavCodes18/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </picture>
@@ -94,8 +94,6 @@ I'm a final-year B.Tech Computer Science student passionate about building robus
 </div>
 
 <br/>
-
----
 
 ---
 
