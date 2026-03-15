@@ -79,21 +79,7 @@ I'm a final-year B.Tech Computer Science student passionate about building robus
 
 </div>
 
----
 
-## 🐍 Swallowing My Contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaibhavCodes18/vaibhavCodes18/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vaibhavCodes18/vaibhavCodes18/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/vaibhavCodes18/vaibhavCodes18/output/github-contribution-grid-snake-dark.svg" width="95%" />
-</picture>
-
-</div>
-
-> **Note:** The snake animation requires a GitHub Action to generate the image. If it's not displaying, you need to set up the workflow. [Click here for instructions](https://github.com/Platane/snk).
 
 ---
 
