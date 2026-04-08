@@ -73,16 +73,9 @@ I'm a final-year B.Tech Computer Science student passionate about building robus
 
 <div align="center">
 
-<!-- GitHub Stats Card (updated with modern parameters) -->
-<img src="https://github-readme-stats.vercel.app/api?username=vaibhavCodes18&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&locale=en" alt="Vaibhav's GitHub Stats" width="49%" />
-
-<!-- GitHub Streak Stats (clean border removal) -->
-<img src="https://nirzak-streak-stats.vercel.app/?user=vaibhavCodes18&theme=dark&hide_border=true" alt="GitHub Streak" width="49%" />
-
-<br/>
-
-<!-- Top Languages (weighted by size for more accurate representation) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavCodes18&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&size_weighted=true" alt="Top Languages" width="49%" />
+![](https://github-readme-stats.vercel.app/api?username=vaibhavCodes18&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vaibhavCodes18&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavCodes18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
