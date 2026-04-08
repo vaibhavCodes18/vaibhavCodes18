@@ -1,129 +1,28 @@
-<p align="center">
-  <a href="#">
-    <img src="https://i.imgur.com/iXuL1HG.png" alt="Header Banner" style="width: 100%; height: auto; max-height: 300px;"/>
-  </a>
-</p>
+# README.md
 
-<h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-  Hey there! I'm Vaibhav
-</h1>
+## About Me
 
-<h3 align="center">🚀 Tech Enthusiast & Full-Stack Developer</h3>
+Hello! My name is Vaibhav and I am a passionate developer with experience in various programming languages and technologies. I enjoy building applications that not only solve problems but also provide a great user experience. My journey in tech began at a young age, and I have since developed a deep interest in software development.
 
-<div align="center">
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vaibhavbuilds.vercel.app/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhav.sathe.159@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-sathe89)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/er_vaibhavv18)
-  
-</div>
+### Skills
+- Programming Languages: Python, JavaScript, Java
+- Frameworks: React, Django, Spring
+- Tools: Git, Docker, Jenkins
 
----
+### Interests
+- Open Source Contribution
+- Artificial Intelligence and Machine Learning
+- Web Development
 
-## 📖 About Me
+![A descriptive image about my project](https://example.com/image.png)
 
-I'm a final-year B.Tech Computer Science student passionate about building robust and scalable applications. Currently diving deep into Java Full-Stack Development and exploring the Spring Boot ecosystem. I love contributing to open-source projects and continuously expanding my tech stack.
+## Projects
 
-- 🎓 **Final Year B.Tech CSE Student**
-- 💻 **Currently Learning:** Java Spring Boot & Microservices
-- 🌱 **Exploring:** System Design & Cloud Technologies
-- 🚀 **Passionate About:** Clean Code & Best Practices
-- 🤝 **Open to:** Collaborations & Open Source Contributions
+### Project 1
+[Link to Project 1](https://github.com/vaibhavCodes18/project1) - A brief description of what this project accomplishes.
 
----
+### Project 2
+[Link to Project 2](https://github.com/vaibhavCodes18/project2) - Another short description about this project.
 
-## 🛠️ Tech Stack
-
-### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### **Backend**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-
-### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### **Tools & Others**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- GitHub Stats Card (updated with modern parameters) -->
-<img src="https://github-readme-stats.vercel.app/api?username=vaibhavCodes18&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&locale=en" alt="Vaibhav's GitHub Stats" width="49%" />
-
-<!-- GitHub Streak Stats (clean border removal) -->
-<img src="https://nirzak-streak-stats.vercel.app/?user=vaibhavCodes18&theme=dark&hide_border=true" alt="GitHub Streak" width="49%" />
-
-<br/>
-
-<!-- Top Languages (weighted by size for more accurate representation) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavCodes18&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&size_weighted=true" alt="Top Languages" width="49%" />
-
-</div>
-
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaibhavCodes18&theme=react-dark&hide_border=true&area=true)
-  
-</div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-  
-</div>
-
----
-
-<div align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=vaibhavCodes18&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://github.com/vaibhavCodes18?tab=followers">
-    <img src="https://img.shields.io/github/followers/vaibhavCodes18?label=Followers&style=social" alt="GitHub Followers">
-  </a>
-  
-</div>
-
----
-
-<div align="center">
-  
-  Made with ❤️ by Vaibhav
-  
-  [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourprofile)
-  
-</div>
+### Contact
+You can reach me via [email](mailto:vaibhav@example.com) or follow me on [LinkedIn](https://www.linkedin.com/in/vaibhavCodes18).
