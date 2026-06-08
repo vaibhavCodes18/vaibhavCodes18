@@ -78,7 +78,7 @@ I'm a final-year B.Tech Computer Science student passionate about building robus
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavCodes18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavCodes18&" alt="sahilaglawe" /></p>
 
 ---
 
