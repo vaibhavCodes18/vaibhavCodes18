@@ -19,9 +19,9 @@
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/er_vaibhavv18)
   
 </div>
-<div align="center">
-	[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Java+Backend+Developer)](https://git.io/typing-svg)
-</div>
+
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Java+Backend+Developer" alt="Typing SVG" /></a>
+
 ---
 
 ## 📖 About Me
