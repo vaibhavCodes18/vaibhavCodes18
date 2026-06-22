@@ -21,8 +21,9 @@
 </div>
 
 <div align="center">
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Java+Backend+Developer" alt="Typing SVG" /></a>
+	[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 </div>
+
 ---
 
 ## 📖 About Me
