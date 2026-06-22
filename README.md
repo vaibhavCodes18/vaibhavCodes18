@@ -72,13 +72,13 @@ I'm a final-year B.Tech Computer Science student passionate about building robus
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=vaibhavCodes18&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vaibhavCodes18&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavCodes18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavCodes18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavCodes18&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
 </div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavCodes18&" alt="sahilaglawe" /></p>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavCodes18&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
+</div>
 
 ---
 
